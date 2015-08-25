@@ -1,0 +1,155 @@
+{
+    "appKeys": {
+        "blink": 4,
+        "bluetoothvibe": 0,
+        "colour": 3,
+        "flip": 2,
+        "hourlyvibe": 1
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "chops",
+    "longName": "tik tok digital",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/mask7.png",
+                "name": "IMAGE_MASK7",
+                "type": "png"
+            },
+            {
+                "file": "images/mask.png",
+                "name": "IMAGE_MASK",
+                "type": "png"
+            },
+            {
+                "file": "images/mask6.png",
+                "name": "IMAGE_MASK6",
+                "type": "png"
+            },
+            {
+                "file": "images/mask4.png",
+                "name": "IMAGE_MASK4",
+                "type": "png"
+            },
+            {
+                "file": "images/mask3.png",
+                "name": "IMAGE_MASK3",
+                "type": "png"
+            },
+            {
+                "file": "images/mask1.png",
+                "name": "IMAGE_MASK1",
+                "type": "png"
+            },
+            {
+                "file": "images/mask2.png",
+                "name": "IMAGE_MASK2",
+                "type": "png"
+            },
+            {
+                "file": "images/mask5.png",
+                "name": "IMAGE_MASK5",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Odin Rounded - Bold.otf",
+                "name": "FONT_ODIN_24",
+                "type": "font"
+            },
+            {
+                "file": "images/new-batt-00.png",
+                "name": "IMAGE_BATT_000_005",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec4.png",
+                "name": "IMAGE_NUM_S4",
+                "type": "png"
+            },
+            {
+                "file": "images/new-nobt-bw.png",
+                "name": "ICON_NOBLUETOOTH",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec5.png",
+                "name": "IMAGE_NUM_S5",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec8.png",
+                "name": "IMAGE_NUM_S8",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec0.png",
+                "name": "IMAGE_NUM_S0",
+                "type": "png"
+            },
+            {
+                "file": "images/new-batt-100.png",
+                "name": "IMAGE_BATT_080_100",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec9.png",
+                "name": "IMAGE_NUM_S9",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec3.png",
+                "name": "IMAGE_NUM_S3",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec1.png",
+                "name": "IMAGE_NUM_S1",
+                "type": "png"
+            },
+            {
+                "file": "images/new-batt3-020.png",
+                "name": "IMAGE_BATT_005_030",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec7.png",
+                "name": "IMAGE_NUM_S7",
+                "type": "png"
+            },
+            {
+                "file": "images/new-menu.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec2.png",
+                "name": "IMAGE_NUM_S2",
+                "type": "png"
+            },
+            {
+                "file": "images/new-batt-chg.png",
+                "name": "IMAGE_BATT_CHARGING",
+                "type": "png"
+            },
+            {
+                "file": "images/digds-sec6.png",
+                "name": "IMAGE_NUM_S6",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "tik digital",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "544bdb3f-3733-4cc0-97a5-8b1d4fe6f816",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
